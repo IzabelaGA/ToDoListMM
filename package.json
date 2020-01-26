@@ -1,0 +1,19 @@
+{
+  "name": "my_todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzabelaGA/ToDoListMM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IzabelaGA/ToDoListMM/issues"
+  },
+  "homepage": "https://github.com/IzabelaGA/ToDoListMM#readme"
+}
